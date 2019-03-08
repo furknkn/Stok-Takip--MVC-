@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="90a6831f047541cdacf872abad858c62" Name="Diagram1">
+        <EntityTypeShape EntityType="ProjeOdeviModel.Tbl_Bolum" Width="1.5" PointX="3" PointY="12" />
+        <EntityTypeShape EntityType="ProjeOdeviModel.Tbl_Firma" Width="1.5" PointX="0.75" PointY="3.5" />
+        <EntityTypeShape EntityType="ProjeOdeviModel.Tbl_HazirPcParcalari" Width="1.5" PointX="5.25" PointY="6" />
+        <EntityTypeShape EntityType="ProjeOdeviModel.Tbl_Kategori" Width="1.5" PointX="0.75" PointY="6.375" />
+        <EntityTypeShape EntityType="ProjeOdeviModel.Tbl_Kullanici" Width="1.5" PointX="5.25" PointY="0.75" />
+        <EntityTypeShape EntityType="ProjeOdeviModel.Tbl_Rol" Width="1.5" PointX="3" PointY="2.625" />
+        <EntityTypeShape EntityType="ProjeOdeviModel.Tbl_Stok" Width="1.5" PointX="5.25" PointY="9.5" />
+        <EntityTypeShape EntityType="ProjeOdeviModel.Tbl_Urun" Width="1.5" PointX="3" PointY="5.125" />
+        <EntityTypeShape EntityType="ProjeOdeviModel.Tbl_Zimmet" Width="1.5" PointX="7.5" PointY="6" />
+        <AssociationConnector Association="ProjeOdeviModel.FK_Tbl_Kulla_Tbl_Bolum" />
+        <AssociationConnector Association="ProjeOdeviModel.FK_Tbl_SatınAlma_Tbl_Firma" />
+        <AssociationConnector Association="ProjeOdeviModel.FK_Tbl_HazirPcParcalari_Tbl_Kategori" />
+        <AssociationConnector Association="ProjeOdeviModel.FK_Tbl_HazirPcParcalari_Tbl_Urun" />
+        <AssociationConnector Association="ProjeOdeviModel.FK_Tbl_Zimmet_Tbl_HazirPcParcalari" />
+        <AssociationConnector Association="ProjeOdeviModel.FK_Tbl_SatınAlma_Tbl_Kategori" />
+        <AssociationConnector Association="ProjeOdeviModel.FK_Tbl_Kullanici_Tbl_Rol" />
+        <AssociationConnector Association="ProjeOdeviModel.FK_Tbl_Zimmet_Tbl_Kulla" />
+        <AssociationConnector Association="ProjeOdeviModel.FK_Tbl_Stok_Tbl_SatınAlma" />
+        <AssociationConnector Association="ProjeOdeviModel.FK_Tbl_Zimmet_Tbl_Urun" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

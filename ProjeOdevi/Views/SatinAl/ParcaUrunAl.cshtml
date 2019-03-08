@@ -1,0 +1,59 @@
+﻿@model ProjeOdevi.ViewModel.ParcaUrunAlViewModel
+@{
+    ViewBag.Title = "Parça Ürün Al";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+<h3 style="color:red">@ViewBag.Hata</h3>
+@using (Html.BeginForm("ParcaUrunAl", "SatinAl", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+    <div class="panel panel-danger">
+        <div class="panel-heading">
+            Ürün Al
+        </div>
+        <div class="panel-body">
+            <form role="form">
+
+                <div class="form-group">
+                    <label>@Html.LabelFor(m => m.urun.Adi)</label>
+                    @Html.TextBoxFor(m => m.urun.Adi, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(m => m.urun.Adi)
+                </div>
+                <div class="form-group">
+                    <label>@Html.LabelFor(m => m.urun.BarkotNo)</label>
+                    @Html.TextBoxFor(m => m.urun.BarkotNo, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(m => m.urun.BarkotNo)
+                </div>
+                <div class="form-group" id="kategori">
+                    <label>@Html.LabelFor(m => m.urun.KategoriID)</label>
+                    @Html.DropDownListFor(m => m.urun.KategoriID, new SelectList(Model.Kategoriler, "KategoriId", "Adi"), "Kategori Seçiniz", new { @class = "form-control" })
+                    @Html.ValidationMessageFor(m => m.urun.KategoriID)
+                </div>
+                <div class="form-group">
+                    <label>@Html.LabelFor(m => m.urun.ToptanFiyat)</label>
+                    @Html.TextBoxFor(m => m.urun.ToptanFiyat, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(m => m.urun.ToptanFiyat)
+                </div>
+                <div class="form-group">
+                    <label>@Html.LabelFor(m => m.urun.FirmaID)</label>
+                    @Html.DropDownListFor(m => m.urun.FirmaID, new SelectList(Model.Firmalar, "FirmaId", "FirmaAdi"), "Kullanıcı Seçiniz", new { @class = "form-control" })
+                    @Html.ValidationMessageFor(m => m.urun.FirmaID)
+                </div>
+                <div class="form-group">
+                    <label>@Html.LabelFor(m => m.urun.Adet)</label>
+                    @Html.TextBoxFor(m => m.urun.Adet, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(m => m.urun.Adet)
+                </div>
+
+                <button type="submit" class="btn btn-danger">Tamamla</button>
+
+            </form>
+        </div>
+    </div>
+}
+
+@section script{
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+}

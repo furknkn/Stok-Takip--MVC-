@@ -1,0 +1,47 @@
+﻿@model ProjeOdevi.Models.Tbl_Kullanici
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Giriş</title>
+    <link href="~/bs-advance-admin/advance-admin/assets/css/bootstrap.css" rel="stylesheet" />
+    <link href="~/bs-advance-admin/Css/GirisEkrani.css" rel="stylesheet" />
+</head>
+<body id="LoginForm">
+    <div class="container">
+        <br /><br /><br />
+        <div class="login-form">
+            <div class="main-div">
+                <div class="panel">
+                    <h2>Kullanızı Girşi</h2>
+                    <h5>Lütfen kullanıcı adı ve şirenizi giriniz.</h5>
+                        <h5 style="color:red">@ViewBag.Login</h5>
+                </div>
+                @using (Html.BeginForm())
+                {
+                    <form id="Login">
+                        <div class="form-group">
+                            @Html.TextBoxFor(m => m.KullaniciAdi, new { @class = "form-control", placeholder = "Kullanıcı Adı" })
+                            @Html.ValidationMessageFor(m => m.KullaniciAdi)
+                        </div>
+                        <div class="form-group">
+                            @Html.PasswordFor(m => m.Sifre, new { @class = "form-control", placeholder = "Şifre" })
+                            @Html.ValidationMessageFor(m => m.Sifre)
+                        </div>
+                        <button type="submit" class="btn btn-primary">Giriş Yap</button>
+                    </form>
+                }
+                </div>
+        </div>
+    </div><
+
+
+</body>
+</html>
+@section script{
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+}

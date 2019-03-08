@@ -1,0 +1,741 @@
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\ProjeOdevi.dll.config
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\ProjeOdevi.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\ProjeOdevi.pdb
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\DevExpress.Charts.v18.1.Core.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\DevExpress.CodeParser.v18.1.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\DevExpress.Data.v18.1.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\DevExpress.DataAccess.v18.1.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\DevExpress.Office.v18.1.Core.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\DevExpress.Pdf.v18.1.Core.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\DevExpress.PivotGrid.v18.1.Core.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\DevExpress.Printing.v18.1.Core.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\DevExpress.RichEdit.v18.1.Core.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\DevExpress.RichEdit.v18.1.Export.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\DevExpress.Sparkline.v18.1.Core.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\DevExpress.Web.ASPxThemes.v18.1.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\DevExpress.Web.Mvc5.v18.1.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\DevExpress.Web.Resources.v18.1.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\DevExpress.Web.v18.1.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\DevExpress.Xpo.v18.1.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\DevExpress.XtraCharts.v18.1.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\DevExpress.XtraGauges.v18.1.Core.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\DevExpress.XtraReports.v18.1.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\DevExpress.XtraReports.v18.1.Web.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\DevExpress.XtraReports.v18.1.Web.WebForms.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\EntityFramework.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\EntityFramework.SqlServer.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\Newtonsoft.Json.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\System.Net.Http.Formatting.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\System.Web.Helpers.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\System.Web.Http.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\System.Web.Http.WebHost.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\System.Web.Mvc.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\System.Web.Razor.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\System.Web.WebPages.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\WebMatrix.Data.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\DevExpress.Images.v18.1.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\DevExpress.XtraCharts.v18.1.Web.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\DevExpress.Web.ASPxHtmlEditor.v18.1.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\DevExpress.Web.ASPxPivotGrid.v18.1.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\DevExpress.Web.ASPxRichEdit.v18.1.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\DevExpress.Web.ASPxScheduler.v18.1.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\DevExpress.XtraScheduler.v18.1.Core.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\DevExpress.Web.ASPxSpellChecker.v18.1.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\DevExpress.Web.ASPxSpreadsheet.v18.1.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\DevExpress.Web.ASPxTreeList.v18.1.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\DevExpress.SpellChecker.v18.1.Core.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\DevExpress.Spreadsheet.v18.1.Core.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\EntityFramework.xml
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\EntityFramework.SqlServer.xml
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\Newtonsoft.Json.xml
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\System.Net.Http.Formatting.xml
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\System.Web.Helpers.xml
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\System.Web.Http.xml
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\System.Web.Http.WebHost.xml
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\System.Web.Mvc.xml
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\System.Web.Razor.xml
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\System.Web.WebPages.xml
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\DevExpress.Data.v18.1.xml
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\DevExpress.RichEdit.v18.1.Core.xml
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\DevExpress.Printing.v18.1.Core.xml
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\DevExpress.Web.v18.1.xml
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\DevExpress.XtraReports.v18.1.xml
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\DevExpress.XtraReports.v18.1.Web.xml
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\DevExpress.Pdf.v18.1.Core.xml
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\DevExpress.DataAccess.v18.1.xml
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\DevExpress.Office.v18.1.Core.xml
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\DevExpress.PivotGrid.v18.1.Core.xml
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\DevExpress.Sparkline.v18.1.Core.xml
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\DevExpress.Xpo.v18.1.xml
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\DevExpress.XtraCharts.v18.1.xml
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\DevExpress.XtraGauges.v18.1.Core.xml
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\WebMatrix.Data.xml
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\DevExpress.XtraCharts.v18.1.Web.xml
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\DevExpress.Web.ASPxHtmlEditor.v18.1.xml
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\DevExpress.Web.ASPxPivotGrid.v18.1.xml
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\DevExpress.Web.ASPxRichEdit.v18.1.xml
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\DevExpress.Web.ASPxScheduler.v18.1.xml
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\DevExpress.XtraScheduler.v18.1.Core.xml
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\DevExpress.Web.ASPxSpellChecker.v18.1.xml
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\DevExpress.Web.ASPxSpreadsheet.v18.1.xml
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\DevExpress.Web.ASPxTreeList.v18.1.xml
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\DevExpress.SpellChecker.v18.1.Core.xml
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\DevExpress.Spreadsheet.v18.1.Core.xml
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\de\DevExpress.Data.v18.1.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\es\DevExpress.Data.v18.1.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\ja\DevExpress.Data.v18.1.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\ru\DevExpress.Data.v18.1.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\de\DevExpress.Web.v18.1.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\es\DevExpress.Web.v18.1.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\ja\DevExpress.Web.v18.1.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\ru\DevExpress.Web.v18.1.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\de\DevExpress.XtraReports.v18.1.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\es\DevExpress.XtraReports.v18.1.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\ja\DevExpress.XtraReports.v18.1.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\ru\DevExpress.XtraReports.v18.1.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\de\DevExpress.XtraReports.v18.1.Web.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\es\DevExpress.XtraReports.v18.1.Web.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\ja\DevExpress.XtraReports.v18.1.Web.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\ru\DevExpress.XtraReports.v18.1.Web.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\de\DevExpress.Web.Resources.v18.1.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\es\DevExpress.Web.Resources.v18.1.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\ja\DevExpress.Web.Resources.v18.1.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\ru\DevExpress.Web.Resources.v18.1.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\de\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\es\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\ja\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\ru\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\de\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\es\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\ja\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\ru\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\de\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\es\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\ja\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\ru\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\de\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\es\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\ja\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\ru\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\de\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\es\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\ja\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\ru\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\de\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\es\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\ja\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\ru\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\de\DevExpress.Web.ASPxHtmlEditor.v18.1.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\es\DevExpress.Web.ASPxHtmlEditor.v18.1.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\ja\DevExpress.Web.ASPxHtmlEditor.v18.1.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\ru\DevExpress.Web.ASPxHtmlEditor.v18.1.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\de\DevExpress.Web.ASPxRichEdit.v18.1.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\es\DevExpress.Web.ASPxRichEdit.v18.1.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\ja\DevExpress.Web.ASPxRichEdit.v18.1.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\ru\DevExpress.Web.ASPxRichEdit.v18.1.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\de\DevExpress.Web.ASPxScheduler.v18.1.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\es\DevExpress.Web.ASPxScheduler.v18.1.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\ja\DevExpress.Web.ASPxScheduler.v18.1.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\ru\DevExpress.Web.ASPxScheduler.v18.1.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\de\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\es\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\ja\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\ru\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\de\DevExpress.Web.ASPxSpellChecker.v18.1.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\es\DevExpress.Web.ASPxSpellChecker.v18.1.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\ja\DevExpress.Web.ASPxSpellChecker.v18.1.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\ru\DevExpress.Web.ASPxSpellChecker.v18.1.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\de\DevExpress.Web.ASPxSpreadsheet.v18.1.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\es\DevExpress.Web.ASPxSpreadsheet.v18.1.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\ja\DevExpress.Web.ASPxSpreadsheet.v18.1.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\ru\DevExpress.Web.ASPxSpreadsheet.v18.1.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\de\DevExpress.Web.ASPxTreeList.v18.1.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\es\DevExpress.Web.ASPxTreeList.v18.1.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\ja\DevExpress.Web.ASPxTreeList.v18.1.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\ru\DevExpress.Web.ASPxTreeList.v18.1.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\de\DevExpress.Spreadsheet.v18.1.Core.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\es\DevExpress.Spreadsheet.v18.1.Core.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\ja\DevExpress.Spreadsheet.v18.1.Core.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\bin\ru\DevExpress.Spreadsheet.v18.1.Core.resources.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.csproj.CoreCompileInputs.cache
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.csproj.CopyComplete
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.dll
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.pdb
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.csproj.GenerateResource.cache
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.dll.licenses
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\obj\Debug\SatinAlRapor.resources
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\obj\Debug\ZimmetRapor.resources
+C:\Users\Faruk\source\repos\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.csprojAssemblyReference.cache
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\ProjeOdevi.dll.config
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\ProjeOdevi.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\ProjeOdevi.pdb
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\DevExpress.Charts.v18.1.Core.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\DevExpress.CodeParser.v18.1.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\DevExpress.Data.v18.1.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\DevExpress.DataAccess.v18.1.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\DevExpress.Office.v18.1.Core.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\DevExpress.Pdf.v18.1.Core.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\DevExpress.PivotGrid.v18.1.Core.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\DevExpress.Printing.v18.1.Core.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\DevExpress.RichEdit.v18.1.Core.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\DevExpress.RichEdit.v18.1.Export.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\DevExpress.Sparkline.v18.1.Core.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\DevExpress.Web.ASPxThemes.v18.1.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\DevExpress.Web.Mvc5.v18.1.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\DevExpress.Web.Resources.v18.1.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\DevExpress.Web.v18.1.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\DevExpress.Xpo.v18.1.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\DevExpress.XtraCharts.v18.1.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\DevExpress.XtraGauges.v18.1.Core.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\DevExpress.XtraReports.v18.1.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\DevExpress.XtraReports.v18.1.Web.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\DevExpress.XtraReports.v18.1.Web.WebForms.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\EntityFramework.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\EntityFramework.SqlServer.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\Newtonsoft.Json.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\System.Net.Http.Formatting.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\System.Web.Helpers.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\System.Web.Http.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\System.Web.Http.WebHost.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\System.Web.Mvc.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\System.Web.Razor.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\System.Web.WebPages.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\WebMatrix.Data.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\DevExpress.Images.v18.1.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\DevExpress.XtraCharts.v18.1.Web.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\DevExpress.Web.ASPxHtmlEditor.v18.1.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\DevExpress.Web.ASPxPivotGrid.v18.1.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\DevExpress.Web.ASPxRichEdit.v18.1.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\DevExpress.Web.ASPxScheduler.v18.1.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\DevExpress.XtraScheduler.v18.1.Core.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\DevExpress.Web.ASPxSpellChecker.v18.1.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\DevExpress.Web.ASPxSpreadsheet.v18.1.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\DevExpress.Web.ASPxTreeList.v18.1.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\DevExpress.SpellChecker.v18.1.Core.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\DevExpress.Spreadsheet.v18.1.Core.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\EntityFramework.xml
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\EntityFramework.SqlServer.xml
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\Newtonsoft.Json.xml
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\System.Net.Http.Formatting.xml
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\System.Web.Helpers.xml
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\System.Web.Http.xml
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\System.Web.Http.WebHost.xml
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\System.Web.Mvc.xml
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\System.Web.Razor.xml
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\System.Web.WebPages.xml
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\DevExpress.Data.v18.1.xml
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\DevExpress.RichEdit.v18.1.Core.xml
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\DevExpress.Printing.v18.1.Core.xml
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\DevExpress.Web.v18.1.xml
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\DevExpress.XtraReports.v18.1.xml
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\DevExpress.XtraReports.v18.1.Web.xml
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\DevExpress.Pdf.v18.1.Core.xml
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\DevExpress.DataAccess.v18.1.xml
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\DevExpress.Office.v18.1.Core.xml
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\DevExpress.PivotGrid.v18.1.Core.xml
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\DevExpress.Sparkline.v18.1.Core.xml
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\DevExpress.Xpo.v18.1.xml
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\DevExpress.XtraCharts.v18.1.xml
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\DevExpress.XtraGauges.v18.1.Core.xml
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\WebMatrix.Data.xml
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\DevExpress.XtraCharts.v18.1.Web.xml
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\DevExpress.Web.ASPxHtmlEditor.v18.1.xml
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\DevExpress.Web.ASPxPivotGrid.v18.1.xml
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\DevExpress.Web.ASPxRichEdit.v18.1.xml
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\DevExpress.Web.ASPxScheduler.v18.1.xml
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\DevExpress.XtraScheduler.v18.1.Core.xml
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\DevExpress.Web.ASPxSpellChecker.v18.1.xml
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\DevExpress.Web.ASPxSpreadsheet.v18.1.xml
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\DevExpress.Web.ASPxTreeList.v18.1.xml
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\DevExpress.SpellChecker.v18.1.Core.xml
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\DevExpress.Spreadsheet.v18.1.Core.xml
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\de\DevExpress.Data.v18.1.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\es\DevExpress.Data.v18.1.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\ja\DevExpress.Data.v18.1.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\ru\DevExpress.Data.v18.1.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\de\DevExpress.Web.v18.1.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\es\DevExpress.Web.v18.1.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\ja\DevExpress.Web.v18.1.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\ru\DevExpress.Web.v18.1.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\de\DevExpress.XtraReports.v18.1.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\es\DevExpress.XtraReports.v18.1.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\ja\DevExpress.XtraReports.v18.1.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\ru\DevExpress.XtraReports.v18.1.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\de\DevExpress.XtraReports.v18.1.Web.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\es\DevExpress.XtraReports.v18.1.Web.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\ja\DevExpress.XtraReports.v18.1.Web.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\ru\DevExpress.XtraReports.v18.1.Web.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\de\DevExpress.Web.Resources.v18.1.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\es\DevExpress.Web.Resources.v18.1.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\ja\DevExpress.Web.Resources.v18.1.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\ru\DevExpress.Web.Resources.v18.1.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\de\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\es\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\ja\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\ru\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\de\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\es\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\ja\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\ru\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\de\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\es\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\ja\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\ru\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\de\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\es\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\ja\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\ru\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\de\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\es\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\ja\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\ru\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\de\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\es\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\ja\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\ru\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\de\DevExpress.Web.ASPxHtmlEditor.v18.1.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\es\DevExpress.Web.ASPxHtmlEditor.v18.1.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\ja\DevExpress.Web.ASPxHtmlEditor.v18.1.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\ru\DevExpress.Web.ASPxHtmlEditor.v18.1.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\de\DevExpress.Web.ASPxRichEdit.v18.1.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\es\DevExpress.Web.ASPxRichEdit.v18.1.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\ja\DevExpress.Web.ASPxRichEdit.v18.1.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\ru\DevExpress.Web.ASPxRichEdit.v18.1.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\de\DevExpress.Web.ASPxScheduler.v18.1.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\es\DevExpress.Web.ASPxScheduler.v18.1.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\ja\DevExpress.Web.ASPxScheduler.v18.1.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\ru\DevExpress.Web.ASPxScheduler.v18.1.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\de\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\es\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\ja\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\ru\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\de\DevExpress.Web.ASPxSpellChecker.v18.1.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\es\DevExpress.Web.ASPxSpellChecker.v18.1.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\ja\DevExpress.Web.ASPxSpellChecker.v18.1.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\ru\DevExpress.Web.ASPxSpellChecker.v18.1.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\de\DevExpress.Web.ASPxSpreadsheet.v18.1.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\es\DevExpress.Web.ASPxSpreadsheet.v18.1.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\ja\DevExpress.Web.ASPxSpreadsheet.v18.1.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\ru\DevExpress.Web.ASPxSpreadsheet.v18.1.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\de\DevExpress.Web.ASPxTreeList.v18.1.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\es\DevExpress.Web.ASPxTreeList.v18.1.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\ja\DevExpress.Web.ASPxTreeList.v18.1.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\ru\DevExpress.Web.ASPxTreeList.v18.1.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\de\DevExpress.Spreadsheet.v18.1.Core.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\es\DevExpress.Spreadsheet.v18.1.Core.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\ja\DevExpress.Spreadsheet.v18.1.Core.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\ru\DevExpress.Spreadsheet.v18.1.Core.resources.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\obj\Debug\SatinAlRapor.resources
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\obj\Debug\ZimmetRapor.resources
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.csproj.GenerateResource.cache
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.dll.licenses
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.csproj.CoreCompileInputs.cache
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.csproj.CopyComplete
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.pdb
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\Antlr3.Runtime.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\System.Web.Optimization.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\WebDriver.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\WebGrease.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\Xania.AspNet.Core.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\Xania.AspNet.Http.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\Xania.AspNet.Razor.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\Xania.AspNet.Simulator.dll
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\bin\WebDriver.xml
+C:\Users\Faruk\Desktop\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.csprojAssemblyReference.cache
+E:\Stok-Takip\ProjeOdevi\bin\ProjeOdevi.dll.config
+E:\Stok-Takip\ProjeOdevi\bin\ProjeOdevi.dll
+E:\Stok-Takip\ProjeOdevi\bin\ProjeOdevi.pdb
+E:\Stok-Takip\ProjeOdevi\bin\Antlr3.Runtime.dll
+E:\Stok-Takip\ProjeOdevi\bin\EntityFramework.dll
+E:\Stok-Takip\ProjeOdevi\bin\EntityFramework.SqlServer.dll
+E:\Stok-Takip\ProjeOdevi\bin\Microsoft.Web.Infrastructure.dll
+E:\Stok-Takip\ProjeOdevi\bin\Newtonsoft.Json.dll
+E:\Stok-Takip\ProjeOdevi\bin\System.Net.Http.Formatting.dll
+E:\Stok-Takip\ProjeOdevi\bin\System.Web.Helpers.dll
+E:\Stok-Takip\ProjeOdevi\bin\System.Web.Http.dll
+E:\Stok-Takip\ProjeOdevi\bin\System.Web.Http.WebHost.dll
+E:\Stok-Takip\ProjeOdevi\bin\System.Web.Mvc.dll
+E:\Stok-Takip\ProjeOdevi\bin\System.Web.Optimization.dll
+E:\Stok-Takip\ProjeOdevi\bin\System.Web.Razor.dll
+E:\Stok-Takip\ProjeOdevi\bin\System.Web.WebPages.Deployment.dll
+E:\Stok-Takip\ProjeOdevi\bin\System.Web.WebPages.dll
+E:\Stok-Takip\ProjeOdevi\bin\System.Web.WebPages.Razor.dll
+E:\Stok-Takip\ProjeOdevi\bin\WebDriver.dll
+E:\Stok-Takip\ProjeOdevi\bin\WebGrease.dll
+E:\Stok-Takip\ProjeOdevi\bin\WebMatrix.Data.dll
+E:\Stok-Takip\ProjeOdevi\bin\Xania.AspNet.Core.dll
+E:\Stok-Takip\ProjeOdevi\bin\Xania.AspNet.Http.dll
+E:\Stok-Takip\ProjeOdevi\bin\Xania.AspNet.Razor.dll
+E:\Stok-Takip\ProjeOdevi\bin\Xania.AspNet.Simulator.dll
+E:\Stok-Takip\ProjeOdevi\bin\DevExpress.Images.v18.1.dll
+E:\Stok-Takip\ProjeOdevi\bin\DevExpress.XtraCharts.v18.1.Web.dll
+E:\Stok-Takip\ProjeOdevi\bin\DevExpress.Web.ASPxHtmlEditor.v18.1.dll
+E:\Stok-Takip\ProjeOdevi\bin\DevExpress.Web.ASPxPivotGrid.v18.1.dll
+E:\Stok-Takip\ProjeOdevi\bin\DevExpress.Web.ASPxRichEdit.v18.1.dll
+E:\Stok-Takip\ProjeOdevi\bin\DevExpress.Web.ASPxScheduler.v18.1.dll
+E:\Stok-Takip\ProjeOdevi\bin\DevExpress.XtraScheduler.v18.1.Core.dll
+E:\Stok-Takip\ProjeOdevi\bin\DevExpress.Web.ASPxSpellChecker.v18.1.dll
+E:\Stok-Takip\ProjeOdevi\bin\DevExpress.Web.ASPxSpreadsheet.v18.1.dll
+E:\Stok-Takip\ProjeOdevi\bin\DevExpress.Web.ASPxTreeList.v18.1.dll
+E:\Stok-Takip\ProjeOdevi\bin\DevExpress.SpellChecker.v18.1.Core.dll
+E:\Stok-Takip\ProjeOdevi\bin\DevExpress.Spreadsheet.v18.1.Core.dll
+E:\Stok-Takip\ProjeOdevi\bin\EntityFramework.xml
+E:\Stok-Takip\ProjeOdevi\bin\EntityFramework.SqlServer.xml
+E:\Stok-Takip\ProjeOdevi\bin\Newtonsoft.Json.xml
+E:\Stok-Takip\ProjeOdevi\bin\System.Net.Http.Formatting.xml
+E:\Stok-Takip\ProjeOdevi\bin\System.Web.Helpers.xml
+E:\Stok-Takip\ProjeOdevi\bin\System.Web.Http.xml
+E:\Stok-Takip\ProjeOdevi\bin\System.Web.Http.WebHost.xml
+E:\Stok-Takip\ProjeOdevi\bin\System.Web.Mvc.xml
+E:\Stok-Takip\ProjeOdevi\bin\System.Web.Razor.xml
+E:\Stok-Takip\ProjeOdevi\bin\System.Web.WebPages.xml
+E:\Stok-Takip\ProjeOdevi\bin\System.Web.WebPages.Deployment.xml
+E:\Stok-Takip\ProjeOdevi\bin\System.Web.WebPages.Razor.xml
+E:\Stok-Takip\ProjeOdevi\bin\DevExpress.Data.v18.1.xml
+E:\Stok-Takip\ProjeOdevi\bin\DevExpress.RichEdit.v18.1.Core.xml
+E:\Stok-Takip\ProjeOdevi\bin\DevExpress.Printing.v18.1.Core.xml
+E:\Stok-Takip\ProjeOdevi\bin\DevExpress.Web.v18.1.xml
+E:\Stok-Takip\ProjeOdevi\bin\DevExpress.XtraReports.v18.1.xml
+E:\Stok-Takip\ProjeOdevi\bin\DevExpress.XtraReports.v18.1.Web.xml
+E:\Stok-Takip\ProjeOdevi\bin\DevExpress.Pdf.v18.1.Core.xml
+E:\Stok-Takip\ProjeOdevi\bin\DevExpress.DataAccess.v18.1.xml
+E:\Stok-Takip\ProjeOdevi\bin\DevExpress.Office.v18.1.Core.xml
+E:\Stok-Takip\ProjeOdevi\bin\DevExpress.PivotGrid.v18.1.Core.xml
+E:\Stok-Takip\ProjeOdevi\bin\DevExpress.Sparkline.v18.1.Core.xml
+E:\Stok-Takip\ProjeOdevi\bin\DevExpress.Xpo.v18.1.xml
+E:\Stok-Takip\ProjeOdevi\bin\DevExpress.XtraCharts.v18.1.xml
+E:\Stok-Takip\ProjeOdevi\bin\DevExpress.XtraGauges.v18.1.Core.xml
+E:\Stok-Takip\ProjeOdevi\bin\WebDriver.xml
+E:\Stok-Takip\ProjeOdevi\bin\WebMatrix.Data.xml
+E:\Stok-Takip\ProjeOdevi\bin\DevExpress.XtraCharts.v18.1.Web.xml
+E:\Stok-Takip\ProjeOdevi\bin\DevExpress.Web.ASPxHtmlEditor.v18.1.xml
+E:\Stok-Takip\ProjeOdevi\bin\DevExpress.Web.ASPxPivotGrid.v18.1.xml
+E:\Stok-Takip\ProjeOdevi\bin\DevExpress.Web.ASPxRichEdit.v18.1.xml
+E:\Stok-Takip\ProjeOdevi\bin\DevExpress.Web.ASPxScheduler.v18.1.xml
+E:\Stok-Takip\ProjeOdevi\bin\DevExpress.XtraScheduler.v18.1.Core.xml
+E:\Stok-Takip\ProjeOdevi\bin\DevExpress.Web.ASPxSpellChecker.v18.1.xml
+E:\Stok-Takip\ProjeOdevi\bin\DevExpress.Web.ASPxSpreadsheet.v18.1.xml
+E:\Stok-Takip\ProjeOdevi\bin\DevExpress.Web.ASPxTreeList.v18.1.xml
+E:\Stok-Takip\ProjeOdevi\bin\DevExpress.SpellChecker.v18.1.Core.xml
+E:\Stok-Takip\ProjeOdevi\bin\DevExpress.Spreadsheet.v18.1.Core.xml
+E:\Stok-Takip\ProjeOdevi\bin\de\DevExpress.Data.v18.1.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\es\DevExpress.Data.v18.1.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\ja\DevExpress.Data.v18.1.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\ru\DevExpress.Data.v18.1.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\de\DevExpress.Printing.v18.1.Core.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\es\DevExpress.Printing.v18.1.Core.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\ja\DevExpress.Printing.v18.1.Core.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\ru\DevExpress.Printing.v18.1.Core.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\de\DevExpress.Web.v18.1.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\es\DevExpress.Web.v18.1.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\ja\DevExpress.Web.v18.1.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\ru\DevExpress.Web.v18.1.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\de\DevExpress.XtraReports.v18.1.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\es\DevExpress.XtraReports.v18.1.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\ja\DevExpress.XtraReports.v18.1.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\ru\DevExpress.XtraReports.v18.1.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\de\DevExpress.XtraReports.v18.1.Web.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\es\DevExpress.XtraReports.v18.1.Web.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\ja\DevExpress.XtraReports.v18.1.Web.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\ru\DevExpress.XtraReports.v18.1.Web.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\de\DevExpress.Pdf.v18.1.Core.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\es\DevExpress.Pdf.v18.1.Core.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\de\DevExpress.Web.Resources.v18.1.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\es\DevExpress.Web.Resources.v18.1.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\ja\DevExpress.Web.Resources.v18.1.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\ru\DevExpress.Web.Resources.v18.1.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\de\DevExpress.DataAccess.v18.1.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\es\DevExpress.DataAccess.v18.1.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\ja\DevExpress.DataAccess.v18.1.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\ru\DevExpress.DataAccess.v18.1.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\de\DevExpress.Office.v18.1.Core.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\es\DevExpress.Office.v18.1.Core.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\ja\DevExpress.Office.v18.1.Core.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\ru\DevExpress.Office.v18.1.Core.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\de\DevExpress.PivotGrid.v18.1.Core.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\es\DevExpress.PivotGrid.v18.1.Core.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\ja\DevExpress.PivotGrid.v18.1.Core.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\ru\DevExpress.PivotGrid.v18.1.Core.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\de\DevExpress.Xpo.v18.1.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\es\DevExpress.Xpo.v18.1.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\ja\DevExpress.Xpo.v18.1.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\ru\DevExpress.Xpo.v18.1.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\de\DevExpress.XtraCharts.v18.1.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\es\DevExpress.XtraCharts.v18.1.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\ja\DevExpress.XtraCharts.v18.1.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\ru\DevExpress.XtraCharts.v18.1.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\de\DevExpress.XtraGauges.v18.1.Core.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\es\DevExpress.XtraGauges.v18.1.Core.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\ja\DevExpress.XtraGauges.v18.1.Core.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\ru\DevExpress.XtraGauges.v18.1.Core.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\de\DevExpress.Web.ASPxHtmlEditor.v18.1.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\es\DevExpress.Web.ASPxHtmlEditor.v18.1.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\ja\DevExpress.Web.ASPxHtmlEditor.v18.1.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\ru\DevExpress.Web.ASPxHtmlEditor.v18.1.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\de\DevExpress.Web.ASPxRichEdit.v18.1.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\es\DevExpress.Web.ASPxRichEdit.v18.1.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\ja\DevExpress.Web.ASPxRichEdit.v18.1.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\ru\DevExpress.Web.ASPxRichEdit.v18.1.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\de\DevExpress.Web.ASPxScheduler.v18.1.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\es\DevExpress.Web.ASPxScheduler.v18.1.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\ja\DevExpress.Web.ASPxScheduler.v18.1.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\ru\DevExpress.Web.ASPxScheduler.v18.1.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\de\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\es\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\ja\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\ru\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\de\DevExpress.Web.ASPxSpellChecker.v18.1.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\es\DevExpress.Web.ASPxSpellChecker.v18.1.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\ja\DevExpress.Web.ASPxSpellChecker.v18.1.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\ru\DevExpress.Web.ASPxSpellChecker.v18.1.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\de\DevExpress.Web.ASPxSpreadsheet.v18.1.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\es\DevExpress.Web.ASPxSpreadsheet.v18.1.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\ja\DevExpress.Web.ASPxSpreadsheet.v18.1.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\ru\DevExpress.Web.ASPxSpreadsheet.v18.1.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\de\DevExpress.Web.ASPxTreeList.v18.1.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\es\DevExpress.Web.ASPxTreeList.v18.1.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\ja\DevExpress.Web.ASPxTreeList.v18.1.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\ru\DevExpress.Web.ASPxTreeList.v18.1.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\de\DevExpress.Spreadsheet.v18.1.Core.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\es\DevExpress.Spreadsheet.v18.1.Core.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\ja\DevExpress.Spreadsheet.v18.1.Core.resources.dll
+E:\Stok-Takip\ProjeOdevi\bin\ru\DevExpress.Spreadsheet.v18.1.Core.resources.dll
+E:\Stok-Takip\ProjeOdevi\obj\Debug\ProjeOdevi.csprojAssemblyReference.cache
+E:\Stok-Takip\ProjeOdevi\obj\Debug\SatinAlRapor.resources
+E:\Stok-Takip\ProjeOdevi\obj\Debug\ZimmetRapor.resources
+E:\Stok-Takip\ProjeOdevi\obj\Debug\ProjeOdevi.csproj.GenerateResource.cache
+E:\Stok-Takip\ProjeOdevi\obj\Debug\ProjeOdevi.dll.licenses
+E:\Stok-Takip\ProjeOdevi\obj\Debug\ProjeOdevi.csproj.CoreCompileInputs.cache
+E:\Stok-Takip\ProjeOdevi\obj\Debug\ProjeOdevi.csproj.CopyComplete
+E:\Stok-Takip\ProjeOdevi\obj\Debug\ProjeOdevi.dll
+E:\Stok-Takip\ProjeOdevi\obj\Debug\ProjeOdevi.pdb
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\ProjeOdevi.dll.config
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\ProjeOdevi.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\ProjeOdevi.pdb
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\Antlr3.Runtime.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\EntityFramework.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\EntityFramework.SqlServer.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\Newtonsoft.Json.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\System.Net.Http.Formatting.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\System.Web.Helpers.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\System.Web.Http.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\System.Web.Http.WebHost.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\System.Web.Mvc.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\System.Web.Optimization.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\System.Web.Razor.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\System.Web.WebPages.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\WebDriver.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\WebGrease.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\WebMatrix.Data.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\Xania.AspNet.Core.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\Xania.AspNet.Http.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\Xania.AspNet.Razor.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\Xania.AspNet.Simulator.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\DevExpress.Images.v18.1.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\DevExpress.XtraCharts.v18.1.Web.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\DevExpress.Web.ASPxHtmlEditor.v18.1.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\DevExpress.Web.ASPxPivotGrid.v18.1.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\DevExpress.Web.ASPxRichEdit.v18.1.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\DevExpress.Web.ASPxScheduler.v18.1.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\DevExpress.XtraScheduler.v18.1.Core.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\DevExpress.Web.ASPxSpellChecker.v18.1.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\DevExpress.Web.ASPxSpreadsheet.v18.1.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\DevExpress.Web.ASPxTreeList.v18.1.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\DevExpress.SpellChecker.v18.1.Core.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\DevExpress.Spreadsheet.v18.1.Core.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\EntityFramework.xml
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\EntityFramework.SqlServer.xml
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\Newtonsoft.Json.xml
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\System.Net.Http.Formatting.xml
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\System.Web.Helpers.xml
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\System.Web.Http.xml
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\System.Web.Http.WebHost.xml
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\System.Web.Mvc.xml
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\System.Web.Razor.xml
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\System.Web.WebPages.xml
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\DevExpress.Data.v18.1.xml
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\DevExpress.RichEdit.v18.1.Core.xml
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\DevExpress.Printing.v18.1.Core.xml
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\DevExpress.Web.v18.1.xml
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\DevExpress.XtraReports.v18.1.xml
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\DevExpress.XtraReports.v18.1.Web.xml
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\DevExpress.Pdf.v18.1.Core.xml
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\DevExpress.DataAccess.v18.1.xml
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\DevExpress.Office.v18.1.Core.xml
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\DevExpress.PivotGrid.v18.1.Core.xml
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\DevExpress.Sparkline.v18.1.Core.xml
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\DevExpress.Xpo.v18.1.xml
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\DevExpress.XtraCharts.v18.1.xml
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\DevExpress.XtraGauges.v18.1.Core.xml
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\WebDriver.xml
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\WebMatrix.Data.xml
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\DevExpress.XtraCharts.v18.1.Web.xml
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\DevExpress.Web.ASPxHtmlEditor.v18.1.xml
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\DevExpress.Web.ASPxPivotGrid.v18.1.xml
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\DevExpress.Web.ASPxRichEdit.v18.1.xml
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\DevExpress.Web.ASPxScheduler.v18.1.xml
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\DevExpress.XtraScheduler.v18.1.Core.xml
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\DevExpress.Web.ASPxSpellChecker.v18.1.xml
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\DevExpress.Web.ASPxSpreadsheet.v18.1.xml
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\DevExpress.Web.ASPxTreeList.v18.1.xml
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\DevExpress.SpellChecker.v18.1.Core.xml
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\DevExpress.Spreadsheet.v18.1.Core.xml
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\de\DevExpress.Data.v18.1.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\es\DevExpress.Data.v18.1.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\ja\DevExpress.Data.v18.1.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\ru\DevExpress.Data.v18.1.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\de\DevExpress.Web.v18.1.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\es\DevExpress.Web.v18.1.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\ja\DevExpress.Web.v18.1.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\ru\DevExpress.Web.v18.1.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\de\DevExpress.XtraReports.v18.1.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\es\DevExpress.XtraReports.v18.1.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\ja\DevExpress.XtraReports.v18.1.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\ru\DevExpress.XtraReports.v18.1.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\de\DevExpress.XtraReports.v18.1.Web.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\es\DevExpress.XtraReports.v18.1.Web.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\ja\DevExpress.XtraReports.v18.1.Web.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\ru\DevExpress.XtraReports.v18.1.Web.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\de\DevExpress.Web.Resources.v18.1.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\es\DevExpress.Web.Resources.v18.1.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\ja\DevExpress.Web.Resources.v18.1.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\ru\DevExpress.Web.Resources.v18.1.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\de\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\es\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\ja\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\ru\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\de\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\es\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\ja\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\ru\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\de\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\es\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\ja\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\ru\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\de\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\es\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\ja\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\ru\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\de\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\es\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\ja\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\ru\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\de\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\es\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\ja\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\ru\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\de\DevExpress.Web.ASPxHtmlEditor.v18.1.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\es\DevExpress.Web.ASPxHtmlEditor.v18.1.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\ja\DevExpress.Web.ASPxHtmlEditor.v18.1.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\ru\DevExpress.Web.ASPxHtmlEditor.v18.1.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\de\DevExpress.Web.ASPxRichEdit.v18.1.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\es\DevExpress.Web.ASPxRichEdit.v18.1.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\ja\DevExpress.Web.ASPxRichEdit.v18.1.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\ru\DevExpress.Web.ASPxRichEdit.v18.1.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\de\DevExpress.Web.ASPxScheduler.v18.1.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\es\DevExpress.Web.ASPxScheduler.v18.1.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\ja\DevExpress.Web.ASPxScheduler.v18.1.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\ru\DevExpress.Web.ASPxScheduler.v18.1.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\de\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\es\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\ja\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\ru\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\de\DevExpress.Web.ASPxSpellChecker.v18.1.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\es\DevExpress.Web.ASPxSpellChecker.v18.1.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\ja\DevExpress.Web.ASPxSpellChecker.v18.1.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\ru\DevExpress.Web.ASPxSpellChecker.v18.1.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\de\DevExpress.Web.ASPxSpreadsheet.v18.1.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\es\DevExpress.Web.ASPxSpreadsheet.v18.1.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\ja\DevExpress.Web.ASPxSpreadsheet.v18.1.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\ru\DevExpress.Web.ASPxSpreadsheet.v18.1.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\de\DevExpress.Web.ASPxTreeList.v18.1.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\es\DevExpress.Web.ASPxTreeList.v18.1.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\ja\DevExpress.Web.ASPxTreeList.v18.1.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\ru\DevExpress.Web.ASPxTreeList.v18.1.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\de\DevExpress.Spreadsheet.v18.1.Core.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\es\DevExpress.Spreadsheet.v18.1.Core.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\ja\DevExpress.Spreadsheet.v18.1.Core.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\bin\ru\DevExpress.Spreadsheet.v18.1.Core.resources.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\obj\Debug\ProjeOdevi.csprojAssemblyReference.cache
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\obj\Debug\SatinAlRapor.resources
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\obj\Debug\ZimmetRapor.resources
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\obj\Debug\ProjeOdevi.csproj.GenerateResource.cache
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\obj\Debug\ProjeOdevi.dll.licenses
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\obj\Debug\ProjeOdevi.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\obj\Debug\ProjeOdevi.csproj.CopyComplete
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\obj\Debug\ProjeOdevi.dll
+C:\Users\Furkan\Desktop\git projeleri\Stok-Takip\ProjeOdevi\obj\Debug\ProjeOdevi.pdb

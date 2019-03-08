@@ -1,0 +1,57 @@
+﻿@using ProjeOdevi.Models
+@model List<Tbl_Zimmet>
+@{
+    ViewBag.Title = "ZimmetListesi";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+<div class="col-md-12">
+    <!--   Kitchen Sink -->
+    <div class="panel panel-danger">
+        <div class="panel-heading">
+            Zimmetli Ürünler
+        </div>
+        <div class="panel-body">
+            <div class="table-responsive">
+                <table class="table table-striped table-bordered table-hover" id="tblZimmet">
+                    <thead class="active-menu">
+                        <tr>
+                            <th>Adı</th>
+                            <th>Soyadı</th>
+                            <th>Zimmetli Ürün</th>
+                            <th>Hazır Pc Parçaları</th>
+                            <th>Barkot No</th>
+                            <th>Arızalandı</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var zimmet in Model)
+                        {
+                            if (zimmet.ArizaDurmu == false)
+                            {
+                        <tr>
+                            <td>@zimmet.Tbl_Kullanici.Adi</td>
+                            <td>@zimmet.Tbl_Kullanici.Soyadi</td>
+                            <td>@zimmet.Tbl_Urun.Adi</td>
+                            @if (zimmet.Tbl_HazirPcParcalari != null)
+                            {
+                                <td>@zimmet.Tbl_HazirPcParcalari.ParcaAdi</td>
+                            }
+                            else
+                            {
+                                <td>-----</td>
+                            }
+                            <td>@zimmet.Tbl_Urun.BarkotNo</td>
+                            <td><a class="btn btn-danger btnZimmetSil" data-id="@zimmet.ZimmetId">Arızalandı</a></td>
+                        </tr>
+                            }
+
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+    <!-- End  Kitchen Sink -->
+</div>
+

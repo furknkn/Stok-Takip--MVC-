@@ -1,0 +1,55 @@
+﻿@using ProjeOdevi.Models
+@model List<Tbl_Urun>
+
+@{
+    ViewBag.Title = "Stok";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+<div class="col-md-12">
+    <!--   Kitchen Sink -->
+    <div class="panel panel-danger">
+        <div class="panel-heading">
+            Stoktaki Ürünler
+        </div>
+        <div class="panel-body">
+            <div class="table-responsive">
+                <table class="table table-striped table-bordered table-hover">
+                    <thead class="active-menu">
+                        <tr>
+                            <th>Ürünün Adı</th>
+                            <th>Firma</th>
+                            <th>Kategori</th>
+                            <th>Toplam Fiyati(TL)</th>
+                            <th>Birim Fiyati(TL)</th>
+                            <th>Satın Alım Tarihi</th>
+                            <th>Adet</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var stok in Model)
+                        {
+                            if (stok.ZimmetDurumu == false)
+                            {
+                                <tr>
+                                    <td>@stok.Adi</td>
+                                    <td>@stok.Tbl_Firma.FirmaAdi</td>
+                                    <td>@stok.Tbl_Kategori.Adi</td>
+                                    <td>@stok.ToptanFiyat</td>
+                                    <td>@stok.BirimFiyat</td>
+                                    <td>@stok.SatinAlmaTarihi.Value.ToString("dd/MM/yyyy")</td>
+                                    <td>@stok.Adet</td>
+                                </tr>
+                            }
+
+
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+    <!-- End  Kitchen Sink -->
+</div>
+
+

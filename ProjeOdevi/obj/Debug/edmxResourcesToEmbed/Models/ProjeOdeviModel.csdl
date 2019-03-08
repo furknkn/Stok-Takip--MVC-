@@ -1,0 +1,279 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ProjeOdeviModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="ProjeOdeviDbEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Tbl_Bolum" EntityType="ProjeOdeviModel.Tbl_Bolum" />
+    <EntitySet Name="Tbl_Firma" EntityType="ProjeOdeviModel.Tbl_Firma" />
+    <EntitySet Name="Tbl_HazirPcParcalari" EntityType="ProjeOdeviModel.Tbl_HazirPcParcalari" />
+    <EntitySet Name="Tbl_Kategori" EntityType="ProjeOdeviModel.Tbl_Kategori" />
+    <EntitySet Name="Tbl_Kullanici" EntityType="ProjeOdeviModel.Tbl_Kullanici" />
+    <EntitySet Name="Tbl_Rol" EntityType="ProjeOdeviModel.Tbl_Rol" />
+    <EntitySet Name="Tbl_Stok" EntityType="ProjeOdeviModel.Tbl_Stok" />
+    <EntitySet Name="Tbl_Urun" EntityType="ProjeOdeviModel.Tbl_Urun" />
+    <EntitySet Name="Tbl_Zimmet" EntityType="ProjeOdeviModel.Tbl_Zimmet" />
+    <AssociationSet Name="FK_Tbl_Kulla_Tbl_Bolum" Association="ProjeOdeviModel.FK_Tbl_Kulla_Tbl_Bolum">
+      <End Role="Tbl_Bolum" EntitySet="Tbl_Bolum" />
+      <End Role="Tbl_Kullanici" EntitySet="Tbl_Kullanici" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Tbl_SatınAlma_Tbl_Firma" Association="ProjeOdeviModel.FK_Tbl_SatınAlma_Tbl_Firma">
+      <End Role="Tbl_Firma" EntitySet="Tbl_Firma" />
+      <End Role="Tbl_Urun" EntitySet="Tbl_Urun" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Tbl_HazirPcParcalari_Tbl_Kategori" Association="ProjeOdeviModel.FK_Tbl_HazirPcParcalari_Tbl_Kategori">
+      <End Role="Tbl_Kategori" EntitySet="Tbl_Kategori" />
+      <End Role="Tbl_HazirPcParcalari" EntitySet="Tbl_HazirPcParcalari" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Tbl_HazirPcParcalari_Tbl_Urun" Association="ProjeOdeviModel.FK_Tbl_HazirPcParcalari_Tbl_Urun">
+      <End Role="Tbl_Urun" EntitySet="Tbl_Urun" />
+      <End Role="Tbl_HazirPcParcalari" EntitySet="Tbl_HazirPcParcalari" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Tbl_Zimmet_Tbl_HazirPcParcalari" Association="ProjeOdeviModel.FK_Tbl_Zimmet_Tbl_HazirPcParcalari">
+      <End Role="Tbl_HazirPcParcalari" EntitySet="Tbl_HazirPcParcalari" />
+      <End Role="Tbl_Zimmet" EntitySet="Tbl_Zimmet" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Tbl_SatınAlma_Tbl_Kategori" Association="ProjeOdeviModel.FK_Tbl_SatınAlma_Tbl_Kategori">
+      <End Role="Tbl_Kategori" EntitySet="Tbl_Kategori" />
+      <End Role="Tbl_Urun" EntitySet="Tbl_Urun" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Tbl_Kullanici_Tbl_Rol" Association="ProjeOdeviModel.FK_Tbl_Kullanici_Tbl_Rol">
+      <End Role="Tbl_Rol" EntitySet="Tbl_Rol" />
+      <End Role="Tbl_Kullanici" EntitySet="Tbl_Kullanici" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Tbl_Zimmet_Tbl_Kulla" Association="ProjeOdeviModel.FK_Tbl_Zimmet_Tbl_Kulla">
+      <End Role="Tbl_Kullanici" EntitySet="Tbl_Kullanici" />
+      <End Role="Tbl_Zimmet" EntitySet="Tbl_Zimmet" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Tbl_Stok_Tbl_SatınAlma" Association="ProjeOdeviModel.FK_Tbl_Stok_Tbl_SatınAlma">
+      <End Role="Tbl_Urun" EntitySet="Tbl_Urun" />
+      <End Role="Tbl_Stok" EntitySet="Tbl_Stok" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Tbl_Zimmet_Tbl_Urun" Association="ProjeOdeviModel.FK_Tbl_Zimmet_Tbl_Urun">
+      <End Role="Tbl_Urun" EntitySet="Tbl_Urun" />
+      <End Role="Tbl_Zimmet" EntitySet="Tbl_Zimmet" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Tbl_Bolum">
+    <Key>
+      <PropertyRef Name="BolumId" />
+    </Key>
+    <Property Name="BolumId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="BolumAdi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Tbl_Kullanici" Relationship="ProjeOdeviModel.FK_Tbl_Kulla_Tbl_Bolum" FromRole="Tbl_Bolum" ToRole="Tbl_Kullanici" />
+  </EntityType>
+  <EntityType Name="Tbl_Firma">
+    <Key>
+      <PropertyRef Name="FirmaId" />
+    </Key>
+    <Property Name="FirmaId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FirmaAdi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Tbl_Urun" Relationship="ProjeOdeviModel.FK_Tbl_SatınAlma_Tbl_Firma" FromRole="Tbl_Firma" ToRole="Tbl_Urun" />
+  </EntityType>
+  <EntityType Name="Tbl_HazirPcParcalari">
+    <Key>
+      <PropertyRef Name="HazirPcParcalariId" />
+    </Key>
+    <Property Name="HazirPcParcalariId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ParcaAdi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="UrunID" Type="Int32" />
+    <Property Name="KategoriID" Type="Int32" />
+    <Property Name="BarkotNo" Type="Int32" />
+    <NavigationProperty Name="Tbl_Kategori" Relationship="ProjeOdeviModel.FK_Tbl_HazirPcParcalari_Tbl_Kategori" FromRole="Tbl_HazirPcParcalari" ToRole="Tbl_Kategori" />
+    <NavigationProperty Name="Tbl_Urun" Relationship="ProjeOdeviModel.FK_Tbl_HazirPcParcalari_Tbl_Urun" FromRole="Tbl_HazirPcParcalari" ToRole="Tbl_Urun" />
+    <NavigationProperty Name="Tbl_Zimmet" Relationship="ProjeOdeviModel.FK_Tbl_Zimmet_Tbl_HazirPcParcalari" FromRole="Tbl_HazirPcParcalari" ToRole="Tbl_Zimmet" />
+  </EntityType>
+  <EntityType Name="Tbl_Kategori">
+    <Key>
+      <PropertyRef Name="KategoriId" />
+    </Key>
+    <Property Name="KategoriId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Adi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Tbl_HazirPcParcalari" Relationship="ProjeOdeviModel.FK_Tbl_HazirPcParcalari_Tbl_Kategori" FromRole="Tbl_Kategori" ToRole="Tbl_HazirPcParcalari" />
+    <NavigationProperty Name="Tbl_Urun" Relationship="ProjeOdeviModel.FK_Tbl_SatınAlma_Tbl_Kategori" FromRole="Tbl_Kategori" ToRole="Tbl_Urun" />
+  </EntityType>
+  <EntityType Name="Tbl_Kullanici">
+    <Key>
+      <PropertyRef Name="KullaniciId" />
+    </Key>
+    <Property Name="KullaniciId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Adi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Soyadi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="KullaniciAdi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Sifre" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="RolID" Type="Int32" />
+    <Property Name="BolumID" Type="Int32" />
+    <Property Name="Durum" Type="Boolean" />
+    <NavigationProperty Name="Tbl_Bolum" Relationship="ProjeOdeviModel.FK_Tbl_Kulla_Tbl_Bolum" FromRole="Tbl_Kullanici" ToRole="Tbl_Bolum" />
+    <NavigationProperty Name="Tbl_Rol" Relationship="ProjeOdeviModel.FK_Tbl_Kullanici_Tbl_Rol" FromRole="Tbl_Kullanici" ToRole="Tbl_Rol" />
+    <NavigationProperty Name="Tbl_Zimmet" Relationship="ProjeOdeviModel.FK_Tbl_Zimmet_Tbl_Kulla" FromRole="Tbl_Kullanici" ToRole="Tbl_Zimmet" />
+  </EntityType>
+  <EntityType Name="Tbl_Rol">
+    <Key>
+      <PropertyRef Name="RolId" />
+    </Key>
+    <Property Name="RolId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="RolAdi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Tbl_Kullanici" Relationship="ProjeOdeviModel.FK_Tbl_Kullanici_Tbl_Rol" FromRole="Tbl_Rol" ToRole="Tbl_Kullanici" />
+  </EntityType>
+  <EntityType Name="Tbl_Stok">
+    <Key>
+      <PropertyRef Name="StokId" />
+    </Key>
+    <Property Name="StokId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UrunID" Type="Int32" />
+    <NavigationProperty Name="Tbl_Urun" Relationship="ProjeOdeviModel.FK_Tbl_Stok_Tbl_SatınAlma" FromRole="Tbl_Stok" ToRole="Tbl_Urun" />
+  </EntityType>
+  <EntityType Name="Tbl_Urun">
+    <Key>
+      <PropertyRef Name="UrunId" />
+    </Key>
+    <Property Name="UrunId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Adi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="BarkotNo" Type="Int32" />
+    <Property Name="KategoriID" Type="Int32" />
+    <Property Name="BirimFiyat" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="ToptanFiyat" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="SatinAlmaTarihi" Type="DateTime" Precision="3" />
+    <Property Name="ZimmetDurumu" Type="Boolean" />
+    <Property Name="FirmaID" Type="Int32" />
+    <Property Name="HazirPcMi" Type="Boolean" />
+    <Property Name="ParcaEklendiMi" Type="Boolean" />
+    <Property Name="Adet" Type="Int32" />
+    <NavigationProperty Name="Tbl_Firma" Relationship="ProjeOdeviModel.FK_Tbl_SatınAlma_Tbl_Firma" FromRole="Tbl_Urun" ToRole="Tbl_Firma" />
+    <NavigationProperty Name="Tbl_HazirPcParcalari" Relationship="ProjeOdeviModel.FK_Tbl_HazirPcParcalari_Tbl_Urun" FromRole="Tbl_Urun" ToRole="Tbl_HazirPcParcalari" />
+    <NavigationProperty Name="Tbl_Kategori" Relationship="ProjeOdeviModel.FK_Tbl_SatınAlma_Tbl_Kategori" FromRole="Tbl_Urun" ToRole="Tbl_Kategori" />
+    <NavigationProperty Name="Tbl_Stok" Relationship="ProjeOdeviModel.FK_Tbl_Stok_Tbl_SatınAlma" FromRole="Tbl_Urun" ToRole="Tbl_Stok" />
+    <NavigationProperty Name="Tbl_Zimmet" Relationship="ProjeOdeviModel.FK_Tbl_Zimmet_Tbl_Urun" FromRole="Tbl_Urun" ToRole="Tbl_Zimmet" />
+  </EntityType>
+  <EntityType Name="Tbl_Zimmet">
+    <Key>
+      <PropertyRef Name="ZimmetId" />
+    </Key>
+    <Property Name="ZimmetId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="KullaniciID" Type="Int32" />
+    <Property Name="UrunID" Type="Int32" />
+    <Property Name="ArizaDurmu" Type="Boolean" />
+    <Property Name="HazirPcParcalariID" Type="Int32" />
+    <NavigationProperty Name="Tbl_HazirPcParcalari" Relationship="ProjeOdeviModel.FK_Tbl_Zimmet_Tbl_HazirPcParcalari" FromRole="Tbl_Zimmet" ToRole="Tbl_HazirPcParcalari" />
+    <NavigationProperty Name="Tbl_Kullanici" Relationship="ProjeOdeviModel.FK_Tbl_Zimmet_Tbl_Kulla" FromRole="Tbl_Zimmet" ToRole="Tbl_Kullanici" />
+    <NavigationProperty Name="Tbl_Urun" Relationship="ProjeOdeviModel.FK_Tbl_Zimmet_Tbl_Urun" FromRole="Tbl_Zimmet" ToRole="Tbl_Urun" />
+  </EntityType>
+  <Association Name="FK_Tbl_Kulla_Tbl_Bolum">
+    <End Type="ProjeOdeviModel.Tbl_Bolum" Role="Tbl_Bolum" Multiplicity="0..1" />
+    <End Type="ProjeOdeviModel.Tbl_Kullanici" Role="Tbl_Kullanici" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tbl_Bolum">
+        <PropertyRef Name="BolumId" />
+      </Principal>
+      <Dependent Role="Tbl_Kullanici">
+        <PropertyRef Name="BolumID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Tbl_SatınAlma_Tbl_Firma">
+    <End Type="ProjeOdeviModel.Tbl_Firma" Role="Tbl_Firma" Multiplicity="0..1" />
+    <End Type="ProjeOdeviModel.Tbl_Urun" Role="Tbl_Urun" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tbl_Firma">
+        <PropertyRef Name="FirmaId" />
+      </Principal>
+      <Dependent Role="Tbl_Urun">
+        <PropertyRef Name="FirmaID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Tbl_HazirPcParcalari_Tbl_Kategori">
+    <End Type="ProjeOdeviModel.Tbl_Kategori" Role="Tbl_Kategori" Multiplicity="0..1" />
+    <End Type="ProjeOdeviModel.Tbl_HazirPcParcalari" Role="Tbl_HazirPcParcalari" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tbl_Kategori">
+        <PropertyRef Name="KategoriId" />
+      </Principal>
+      <Dependent Role="Tbl_HazirPcParcalari">
+        <PropertyRef Name="KategoriID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Tbl_HazirPcParcalari_Tbl_Urun">
+    <End Type="ProjeOdeviModel.Tbl_Urun" Role="Tbl_Urun" Multiplicity="0..1" />
+    <End Type="ProjeOdeviModel.Tbl_HazirPcParcalari" Role="Tbl_HazirPcParcalari" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tbl_Urun">
+        <PropertyRef Name="UrunId" />
+      </Principal>
+      <Dependent Role="Tbl_HazirPcParcalari">
+        <PropertyRef Name="UrunID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Tbl_Zimmet_Tbl_HazirPcParcalari">
+    <End Type="ProjeOdeviModel.Tbl_HazirPcParcalari" Role="Tbl_HazirPcParcalari" Multiplicity="0..1" />
+    <End Type="ProjeOdeviModel.Tbl_Zimmet" Role="Tbl_Zimmet" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tbl_HazirPcParcalari">
+        <PropertyRef Name="HazirPcParcalariId" />
+      </Principal>
+      <Dependent Role="Tbl_Zimmet">
+        <PropertyRef Name="HazirPcParcalariID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Tbl_SatınAlma_Tbl_Kategori">
+    <End Type="ProjeOdeviModel.Tbl_Kategori" Role="Tbl_Kategori" Multiplicity="0..1" />
+    <End Type="ProjeOdeviModel.Tbl_Urun" Role="Tbl_Urun" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tbl_Kategori">
+        <PropertyRef Name="KategoriId" />
+      </Principal>
+      <Dependent Role="Tbl_Urun">
+        <PropertyRef Name="KategoriID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Tbl_Kullanici_Tbl_Rol">
+    <End Type="ProjeOdeviModel.Tbl_Rol" Role="Tbl_Rol" Multiplicity="0..1" />
+    <End Type="ProjeOdeviModel.Tbl_Kullanici" Role="Tbl_Kullanici" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tbl_Rol">
+        <PropertyRef Name="RolId" />
+      </Principal>
+      <Dependent Role="Tbl_Kullanici">
+        <PropertyRef Name="RolID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Tbl_Zimmet_Tbl_Kulla">
+    <End Type="ProjeOdeviModel.Tbl_Kullanici" Role="Tbl_Kullanici" Multiplicity="0..1" />
+    <End Type="ProjeOdeviModel.Tbl_Zimmet" Role="Tbl_Zimmet" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tbl_Kullanici">
+        <PropertyRef Name="KullaniciId" />
+      </Principal>
+      <Dependent Role="Tbl_Zimmet">
+        <PropertyRef Name="KullaniciID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Tbl_Stok_Tbl_SatınAlma">
+    <End Type="ProjeOdeviModel.Tbl_Urun" Role="Tbl_Urun" Multiplicity="0..1" />
+    <End Type="ProjeOdeviModel.Tbl_Stok" Role="Tbl_Stok" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tbl_Urun">
+        <PropertyRef Name="UrunId" />
+      </Principal>
+      <Dependent Role="Tbl_Stok">
+        <PropertyRef Name="UrunID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Tbl_Zimmet_Tbl_Urun">
+    <End Type="ProjeOdeviModel.Tbl_Urun" Role="Tbl_Urun" Multiplicity="0..1" />
+    <End Type="ProjeOdeviModel.Tbl_Zimmet" Role="Tbl_Zimmet" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tbl_Urun">
+        <PropertyRef Name="UrunId" />
+      </Principal>
+      <Dependent Role="Tbl_Zimmet">
+        <PropertyRef Name="UrunID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

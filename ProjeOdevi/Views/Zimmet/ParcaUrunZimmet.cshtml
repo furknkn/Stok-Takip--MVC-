@@ -1,0 +1,59 @@
+﻿@model ProjeOdevi.ViewModel.ZimmetFormViewModel
+@{
+    /**/
+
+    ViewBag.Title = "Parca Urun Zimmet";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+@using (Html.BeginForm("ParcaUrunZimmetle", "Zimmet", FormMethod.Post))
+{
+    <div class="panel panel-danger">
+        <div class="panel-heading">
+            Parça ürün zimmetle
+        </div>
+        <div class="panel-body">
+            <form role="form" id="UrunZimmetle">
+                <div class="form-group" id="Zimmet">
+                    <label>Ürün Adı</label>
+                    @{
+                        foreach (var item in Model.Urunler)
+                        {
+                            if (item.ZimmetDurumu == true || item.HazirPcMi == true || item.Adet == 0)
+                            {
+
+                                Model.Zimmetsiz.Remove(item);
+                            }
+                        }
+
+                        foreach (var k in Model.BirimKullanicilari)
+                        {
+                            if (k.Tbl_Bolum.BolumAdi != Model.Bolum && (!@HttpContext.Current.User.IsInRole("Admin") && !@HttpContext.Current.User.IsInRole("SatisYetkilisi")))
+                            {
+
+                                Model.Kullanicilar.Remove(k);
+                            }
+                        }
+                    }
+
+                    @Html.DropDownListFor(m => m.Tbl_Zimmet.UrunID, new SelectList(Model.Zimmetsiz, "UrunId", "Adi"), "Ürün Seçiniz", new { @class = "form-control" })
+                    @Html.ValidationMessageFor(m => m.Tbl_Zimmet.UrunID)
+                </div>
+                <div class="form-group">
+                    <label>Personel Adı</label>
+                    @Html.DropDownListFor(m => m.Tbl_Zimmet.KullaniciID, new SelectList(Model.Kullanicilar, "KullaniciId", "Adi"), "Kullanıcı Seçiniz", new { @class = "form-control" })
+                    @Html.ValidationMessageFor(m => m.Tbl_Zimmet.KullaniciID)
+                </div>
+
+                <button type="submit" class="btn btn-danger">Tamamla</button>
+
+            </form>
+        </div>
+    </div>
+}
+
+@section script{
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+}
+

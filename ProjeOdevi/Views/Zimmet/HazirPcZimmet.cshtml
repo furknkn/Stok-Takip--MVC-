@@ -1,0 +1,49 @@
+﻿@model ProjeOdevi.ViewModel.HazirPcZimmetViewModel
+
+@{
+    /**/
+
+    ViewBag.Title = "HazirPc Zimmet";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+@using (Html.BeginForm("HazirPcZimmetle", "Zimmet", FormMethod.Post))
+{
+    <div class="panel panel-danger">
+        <div class="panel-heading">
+            Hazır Bilgisayar Parçaları
+        </div>
+        <div class="panel-body">
+            <form role="form">
+                <div class="form-group" id="Zimmet">
+                    <label>Ürün Adı</label>
+                    @{
+                        foreach (var item in Model.HazirPc)
+                        {
+                            if (item.ZimmetDurumu == true || item.Adet == 0 || item.HazirPcMi == false)
+                            {
+                                Model.Zimmetsiz.Remove(item);
+                            }
+                        }
+                    }
+                    @Html.DropDownListFor(m => m.Tbl_Zimmet.UrunID, new SelectList(Model.Zimmetsiz, "UrunId", "Adi"), "Ürün Seçiniz", new { @class = "form-control" })
+                    @Html.ValidationMessageFor(m => m.Tbl_Zimmet.UrunID)
+                </div>
+                <div class="form-group">
+                    <label>Personel Adı</label>
+                    @Html.DropDownListFor(m => m.Tbl_Zimmet.KullaniciID, new SelectList(Model.Kullanicilar, "KullaniciId", "Adi"), "Kullanıcı Seçiniz", new { @class = "form-control" })
+                    @Html.ValidationMessageFor(m => m.Tbl_Zimmet.KullaniciID)
+                </div>
+
+                <button type="submit" class="btn btn-danger">Tamamla</button>
+
+            </form>
+        </div>
+    </div>
+}
+
+
+@section script{
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+}

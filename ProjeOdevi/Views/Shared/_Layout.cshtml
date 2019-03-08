@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>Stok Raporu</title>
+    
+    @Html.DevExpress().GetStyleSheets(
+        new StyleSheet { ExtensionSuite = ExtensionSuite.NavigationAndLayout },
+        new StyleSheet { ExtensionSuite = ExtensionSuite.Editors },
+        new StyleSheet { ExtensionSuite = ExtensionSuite.Report }
+    )
+    @Html.DevExpress().GetScripts( 
+        new Script { ExtensionSuite = ExtensionSuite.NavigationAndLayout },
+        new Script { ExtensionSuite = ExtensionSuite.Editors },
+        new Script { ExtensionSuite = ExtensionSuite.Report }
+    )
+</head>
+
+<body>
+    <div class="content-wrapper">
+        <div class="header">
+            @Html.DevExpress().Menu(settings => {
+                settings.Name = "HeaderMenu";
+                settings.ItemAutoWidth = false;
+                settings.Width = System.Web.UI.WebControls.Unit.Percentage(100);
+                settings.Styles.Style.Border.BorderWidth = System.Web.UI.WebControls.Unit.Pixel(0);
+                settings.Styles.Style.Paddings.Padding = System.Web.UI.WebControls.Unit.Pixel(0);
+            }).GetHtml()
+        </div>
+
+        <div class="content">
+            @RenderBody()
+        </div>
+
+        <div class="footer">
+        </div>
+    </div>
+</body>
+</html>

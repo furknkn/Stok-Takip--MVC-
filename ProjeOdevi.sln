@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjeOdevi", "ProjeOdevi\ProjeOdevi.csproj", "{CAF786EE-081C-4126-ABFF-E309D1B3FF24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjeOdeviTests", "ProjeOdeviTests\ProjeOdeviTests.csproj", "{55F35DC5-FBAD-4DE4-BF25-8B4CE523CF3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAF786EE-081C-4126-ABFF-E309D1B3FF24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAF786EE-081C-4126-ABFF-E309D1B3FF24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAF786EE-081C-4126-ABFF-E309D1B3FF24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAF786EE-081C-4126-ABFF-E309D1B3FF24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55F35DC5-FBAD-4DE4-BF25-8B4CE523CF3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55F35DC5-FBAD-4DE4-BF25-8B4CE523CF3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55F35DC5-FBAD-4DE4-BF25-8B4CE523CF3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55F35DC5-FBAD-4DE4-BF25-8B4CE523CF3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8DDD881-4D6D-42B4-873D-756278BDFAFA}
+	EndGlobalSection
+EndGlobal

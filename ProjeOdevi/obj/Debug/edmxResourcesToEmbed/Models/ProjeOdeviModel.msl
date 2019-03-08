@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ProjeOdeviModelStoreContainer" CdmEntityContainer="ProjeOdeviDbEntities">
+    <EntitySetMapping Name="Tbl_Bolum">
+      <EntityTypeMapping TypeName="ProjeOdeviModel.Tbl_Bolum">
+        <MappingFragment StoreEntitySet="Tbl_Bolum">
+          <ScalarProperty Name="BolumAdi" ColumnName="BolumAdi" />
+          <ScalarProperty Name="BolumId" ColumnName="BolumId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tbl_Firma">
+      <EntityTypeMapping TypeName="ProjeOdeviModel.Tbl_Firma">
+        <MappingFragment StoreEntitySet="Tbl_Firma">
+          <ScalarProperty Name="FirmaAdi" ColumnName="FirmaAdi" />
+          <ScalarProperty Name="FirmaId" ColumnName="FirmaId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tbl_HazirPcParcalari">
+      <EntityTypeMapping TypeName="ProjeOdeviModel.Tbl_HazirPcParcalari">
+        <MappingFragment StoreEntitySet="Tbl_HazirPcParcalari">
+          <ScalarProperty Name="BarkotNo" ColumnName="BarkotNo" />
+          <ScalarProperty Name="KategoriID" ColumnName="KategoriID" />
+          <ScalarProperty Name="UrunID" ColumnName="UrunID" />
+          <ScalarProperty Name="ParcaAdi" ColumnName="ParcaAdi" />
+          <ScalarProperty Name="HazirPcParcalariId" ColumnName="HazirPcParcalariId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tbl_Kategori">
+      <EntityTypeMapping TypeName="ProjeOdeviModel.Tbl_Kategori">
+        <MappingFragment StoreEntitySet="Tbl_Kategori">
+          <ScalarProperty Name="Adi" ColumnName="Adi" />
+          <ScalarProperty Name="KategoriId" ColumnName="KategoriId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tbl_Kullanici">
+      <EntityTypeMapping TypeName="ProjeOdeviModel.Tbl_Kullanici">
+        <MappingFragment StoreEntitySet="Tbl_Kullanici">
+          <ScalarProperty Name="Durum" ColumnName="Durum" />
+          <ScalarProperty Name="BolumID" ColumnName="BolumID" />
+          <ScalarProperty Name="RolID" ColumnName="RolID" />
+          <ScalarProperty Name="Sifre" ColumnName="Sifre" />
+          <ScalarProperty Name="KullaniciAdi" ColumnName="KullaniciAdi" />
+          <ScalarProperty Name="Soyadi" ColumnName="Soyadi" />
+          <ScalarProperty Name="Adi" ColumnName="Adi" />
+          <ScalarProperty Name="KullaniciId" ColumnName="KullaniciId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tbl_Rol">
+      <EntityTypeMapping TypeName="ProjeOdeviModel.Tbl_Rol">
+        <MappingFragment StoreEntitySet="Tbl_Rol">
+          <ScalarProperty Name="RolAdi" ColumnName="RolAdi" />
+          <ScalarProperty Name="RolId" ColumnName="RolId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tbl_Stok">
+      <EntityTypeMapping TypeName="ProjeOdeviModel.Tbl_Stok">
+        <MappingFragment StoreEntitySet="Tbl_Stok">
+          <ScalarProperty Name="UrunID" ColumnName="UrunID" />
+          <ScalarProperty Name="StokId" ColumnName="StokId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tbl_Urun">
+      <EntityTypeMapping TypeName="ProjeOdeviModel.Tbl_Urun">
+        <MappingFragment StoreEntitySet="Tbl_Urun">
+          <ScalarProperty Name="Adet" ColumnName="Adet" />
+          <ScalarProperty Name="ParcaEklendiMi" ColumnName="ParcaEklendiMi" />
+          <ScalarProperty Name="HazirPcMi" ColumnName="HazirPcMi" />
+          <ScalarProperty Name="FirmaID" ColumnName="FirmaID" />
+          <ScalarProperty Name="ZimmetDurumu" ColumnName="ZimmetDurumu" />
+          <ScalarProperty Name="SatinAlmaTarihi" ColumnName="SatinAlmaTarihi" />
+          <ScalarProperty Name="ToptanFiyat" ColumnName="ToptanFiyat" />
+          <ScalarProperty Name="BirimFiyat" ColumnName="BirimFiyat" />
+          <ScalarProperty Name="KategoriID" ColumnName="KategoriID" />
+          <ScalarProperty Name="BarkotNo" ColumnName="BarkotNo" />
+          <ScalarProperty Name="Adi" ColumnName="Adi" />
+          <ScalarProperty Name="UrunId" ColumnName="UrunId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tbl_Zimmet">
+      <EntityTypeMapping TypeName="ProjeOdeviModel.Tbl_Zimmet">
+        <MappingFragment StoreEntitySet="Tbl_Zimmet">
+          <ScalarProperty Name="HazirPcParcalariID" ColumnName="HazirPcParcalariID" />
+          <ScalarProperty Name="ArizaDurmu" ColumnName="ArizaDurmu" />
+          <ScalarProperty Name="UrunID" ColumnName="UrunID" />
+          <ScalarProperty Name="KullaniciID" ColumnName="KullaniciID" />
+          <ScalarProperty Name="ZimmetId" ColumnName="ZimmetId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

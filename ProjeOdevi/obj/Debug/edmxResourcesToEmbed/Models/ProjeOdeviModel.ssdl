@@ -1,0 +1,259 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ProjeOdeviModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Tbl_Bolum">
+    <Key>
+      <PropertyRef Name="BolumId" />
+    </Key>
+    <Property Name="BolumId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="BolumAdi" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Tbl_Firma">
+    <Key>
+      <PropertyRef Name="FirmaId" />
+    </Key>
+    <Property Name="FirmaId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="FirmaAdi" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Tbl_HazirPcParcalari">
+    <Key>
+      <PropertyRef Name="HazirPcParcalariId" />
+    </Key>
+    <Property Name="HazirPcParcalariId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ParcaAdi" Type="nvarchar" MaxLength="50" />
+    <Property Name="UrunID" Type="int" />
+    <Property Name="KategoriID" Type="int" />
+    <Property Name="BarkotNo" Type="int" />
+  </EntityType>
+  <EntityType Name="Tbl_Kategori">
+    <Key>
+      <PropertyRef Name="KategoriId" />
+    </Key>
+    <Property Name="KategoriId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Adi" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Tbl_Kullanici">
+    <Key>
+      <PropertyRef Name="KullaniciId" />
+    </Key>
+    <Property Name="KullaniciId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Adi" Type="nvarchar" MaxLength="50" />
+    <Property Name="Soyadi" Type="nvarchar" MaxLength="50" />
+    <Property Name="KullaniciAdi" Type="nvarchar" MaxLength="50" />
+    <Property Name="Sifre" Type="nvarchar" MaxLength="50" />
+    <Property Name="RolID" Type="int" />
+    <Property Name="BolumID" Type="int" />
+    <Property Name="Durum" Type="bit" />
+  </EntityType>
+  <EntityType Name="Tbl_Rol">
+    <Key>
+      <PropertyRef Name="RolId" />
+    </Key>
+    <Property Name="RolId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="RolAdi" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Tbl_Stok">
+    <Key>
+      <PropertyRef Name="StokId" />
+    </Key>
+    <Property Name="StokId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UrunID" Type="int" />
+  </EntityType>
+  <EntityType Name="Tbl_Urun">
+    <Key>
+      <PropertyRef Name="UrunId" />
+    </Key>
+    <Property Name="UrunId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Adi" Type="nvarchar" MaxLength="50" />
+    <Property Name="BarkotNo" Type="int" />
+    <Property Name="KategoriID" Type="int" />
+    <Property Name="BirimFiyat" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="ToptanFiyat" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="SatinAlmaTarihi" Type="datetime" />
+    <Property Name="ZimmetDurumu" Type="bit" />
+    <Property Name="FirmaID" Type="int" />
+    <Property Name="HazirPcMi" Type="bit" />
+    <Property Name="ParcaEklendiMi" Type="bit" />
+    <Property Name="Adet" Type="int" />
+  </EntityType>
+  <EntityType Name="Tbl_Zimmet">
+    <Key>
+      <PropertyRef Name="ZimmetId" />
+    </Key>
+    <Property Name="ZimmetId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="KullaniciID" Type="int" />
+    <Property Name="UrunID" Type="int" />
+    <Property Name="ArizaDurmu" Type="bit" />
+    <Property Name="HazirPcParcalariID" Type="int" />
+  </EntityType>
+  <Association Name="FK_Tbl_HazirPcParcalari_Tbl_Kategori">
+    <End Role="Tbl_Kategori" Type="Self.Tbl_Kategori" Multiplicity="0..1" />
+    <End Role="Tbl_HazirPcParcalari" Type="Self.Tbl_HazirPcParcalari" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tbl_Kategori">
+        <PropertyRef Name="KategoriId" />
+      </Principal>
+      <Dependent Role="Tbl_HazirPcParcalari">
+        <PropertyRef Name="KategoriID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Tbl_HazirPcParcalari_Tbl_Urun">
+    <End Role="Tbl_Urun" Type="Self.Tbl_Urun" Multiplicity="0..1" />
+    <End Role="Tbl_HazirPcParcalari" Type="Self.Tbl_HazirPcParcalari" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tbl_Urun">
+        <PropertyRef Name="UrunId" />
+      </Principal>
+      <Dependent Role="Tbl_HazirPcParcalari">
+        <PropertyRef Name="UrunID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Tbl_Kulla_Tbl_Bolum">
+    <End Role="Tbl_Bolum" Type="Self.Tbl_Bolum" Multiplicity="0..1" />
+    <End Role="Tbl_Kullanici" Type="Self.Tbl_Kullanici" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tbl_Bolum">
+        <PropertyRef Name="BolumId" />
+      </Principal>
+      <Dependent Role="Tbl_Kullanici">
+        <PropertyRef Name="BolumID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Tbl_Kullanici_Tbl_Rol">
+    <End Role="Tbl_Rol" Type="Self.Tbl_Rol" Multiplicity="0..1" />
+    <End Role="Tbl_Kullanici" Type="Self.Tbl_Kullanici" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tbl_Rol">
+        <PropertyRef Name="RolId" />
+      </Principal>
+      <Dependent Role="Tbl_Kullanici">
+        <PropertyRef Name="RolID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Tbl_SatınAlma_Tbl_Firma">
+    <End Role="Tbl_Firma" Type="Self.Tbl_Firma" Multiplicity="0..1" />
+    <End Role="Tbl_Urun" Type="Self.Tbl_Urun" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tbl_Firma">
+        <PropertyRef Name="FirmaId" />
+      </Principal>
+      <Dependent Role="Tbl_Urun">
+        <PropertyRef Name="FirmaID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Tbl_SatınAlma_Tbl_Kategori">
+    <End Role="Tbl_Kategori" Type="Self.Tbl_Kategori" Multiplicity="0..1" />
+    <End Role="Tbl_Urun" Type="Self.Tbl_Urun" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tbl_Kategori">
+        <PropertyRef Name="KategoriId" />
+      </Principal>
+      <Dependent Role="Tbl_Urun">
+        <PropertyRef Name="KategoriID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Tbl_Stok_Tbl_SatınAlma">
+    <End Role="Tbl_Urun" Type="Self.Tbl_Urun" Multiplicity="0..1" />
+    <End Role="Tbl_Stok" Type="Self.Tbl_Stok" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tbl_Urun">
+        <PropertyRef Name="UrunId" />
+      </Principal>
+      <Dependent Role="Tbl_Stok">
+        <PropertyRef Name="UrunID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Tbl_Zimmet_Tbl_HazirPcParcalari">
+    <End Role="Tbl_HazirPcParcalari" Type="Self.Tbl_HazirPcParcalari" Multiplicity="0..1" />
+    <End Role="Tbl_Zimmet" Type="Self.Tbl_Zimmet" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tbl_HazirPcParcalari">
+        <PropertyRef Name="HazirPcParcalariId" />
+      </Principal>
+      <Dependent Role="Tbl_Zimmet">
+        <PropertyRef Name="HazirPcParcalariID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Tbl_Zimmet_Tbl_Kulla">
+    <End Role="Tbl_Kullanici" Type="Self.Tbl_Kullanici" Multiplicity="0..1" />
+    <End Role="Tbl_Zimmet" Type="Self.Tbl_Zimmet" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tbl_Kullanici">
+        <PropertyRef Name="KullaniciId" />
+      </Principal>
+      <Dependent Role="Tbl_Zimmet">
+        <PropertyRef Name="KullaniciID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Tbl_Zimmet_Tbl_Urun">
+    <End Role="Tbl_Urun" Type="Self.Tbl_Urun" Multiplicity="0..1" />
+    <End Role="Tbl_Zimmet" Type="Self.Tbl_Zimmet" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tbl_Urun">
+        <PropertyRef Name="UrunId" />
+      </Principal>
+      <Dependent Role="Tbl_Zimmet">
+        <PropertyRef Name="UrunID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="ProjeOdeviModelStoreContainer">
+    <EntitySet Name="Tbl_Bolum" EntityType="Self.Tbl_Bolum" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Tbl_Firma" EntityType="Self.Tbl_Firma" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Tbl_HazirPcParcalari" EntityType="Self.Tbl_HazirPcParcalari" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Tbl_Kategori" EntityType="Self.Tbl_Kategori" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Tbl_Kullanici" EntityType="Self.Tbl_Kullanici" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Tbl_Rol" EntityType="Self.Tbl_Rol" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Tbl_Stok" EntityType="Self.Tbl_Stok" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Tbl_Urun" EntityType="Self.Tbl_Urun" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Tbl_Zimmet" EntityType="Self.Tbl_Zimmet" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Tbl_HazirPcParcalari_Tbl_Kategori" Association="Self.FK_Tbl_HazirPcParcalari_Tbl_Kategori">
+      <End Role="Tbl_Kategori" EntitySet="Tbl_Kategori" />
+      <End Role="Tbl_HazirPcParcalari" EntitySet="Tbl_HazirPcParcalari" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Tbl_HazirPcParcalari_Tbl_Urun" Association="Self.FK_Tbl_HazirPcParcalari_Tbl_Urun">
+      <End Role="Tbl_Urun" EntitySet="Tbl_Urun" />
+      <End Role="Tbl_HazirPcParcalari" EntitySet="Tbl_HazirPcParcalari" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Tbl_Kulla_Tbl_Bolum" Association="Self.FK_Tbl_Kulla_Tbl_Bolum">
+      <End Role="Tbl_Bolum" EntitySet="Tbl_Bolum" />
+      <End Role="Tbl_Kullanici" EntitySet="Tbl_Kullanici" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Tbl_Kullanici_Tbl_Rol" Association="Self.FK_Tbl_Kullanici_Tbl_Rol">
+      <End Role="Tbl_Rol" EntitySet="Tbl_Rol" />
+      <End Role="Tbl_Kullanici" EntitySet="Tbl_Kullanici" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Tbl_SatınAlma_Tbl_Firma" Association="Self.FK_Tbl_SatınAlma_Tbl_Firma">
+      <End Role="Tbl_Firma" EntitySet="Tbl_Firma" />
+      <End Role="Tbl_Urun" EntitySet="Tbl_Urun" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Tbl_SatınAlma_Tbl_Kategori" Association="Self.FK_Tbl_SatınAlma_Tbl_Kategori">
+      <End Role="Tbl_Kategori" EntitySet="Tbl_Kategori" />
+      <End Role="Tbl_Urun" EntitySet="Tbl_Urun" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Tbl_Stok_Tbl_SatınAlma" Association="Self.FK_Tbl_Stok_Tbl_SatınAlma">
+      <End Role="Tbl_Urun" EntitySet="Tbl_Urun" />
+      <End Role="Tbl_Stok" EntitySet="Tbl_Stok" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Tbl_Zimmet_Tbl_HazirPcParcalari" Association="Self.FK_Tbl_Zimmet_Tbl_HazirPcParcalari">
+      <End Role="Tbl_HazirPcParcalari" EntitySet="Tbl_HazirPcParcalari" />
+      <End Role="Tbl_Zimmet" EntitySet="Tbl_Zimmet" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Tbl_Zimmet_Tbl_Kulla" Association="Self.FK_Tbl_Zimmet_Tbl_Kulla">
+      <End Role="Tbl_Kullanici" EntitySet="Tbl_Kullanici" />
+      <End Role="Tbl_Zimmet" EntitySet="Tbl_Zimmet" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Tbl_Zimmet_Tbl_Urun" Association="Self.FK_Tbl_Zimmet_Tbl_Urun">
+      <End Role="Tbl_Urun" EntitySet="Tbl_Urun" />
+      <End Role="Tbl_Zimmet" EntitySet="Tbl_Zimmet" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,8 @@
+@{
+    ViewBag.Title = "Home Page";
+}
+
+
+@Html.DevExpress().WebDocumentViewer(settings => {
+    settings.Name = "WebDocumentViewer";
+}).Bind(new DevExpress.XtraReports.Web.CachedReportSourceWeb(new ProjeOdevi.Raports.SatinAlmaRapor())).GetHtml()

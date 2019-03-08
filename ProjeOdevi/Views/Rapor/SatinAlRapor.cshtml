@@ -1,0 +1,10 @@
+﻿
+@{
+    ViewBag.Title = "SatinAlRapor";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+@Html.DevExpress().WebDocumentViewer(settings => {
+    settings.Name = "WebDocumentViewer";
+}).Bind(new DevExpress.XtraReports.Web.CachedReportSourceWeb(new SatinAlRapor())).GetHtml()

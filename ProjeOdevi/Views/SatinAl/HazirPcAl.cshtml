@@ -1,0 +1,52 @@
+﻿@model ProjeOdevi.ViewModel.HazirPcAlViewModel
+@{
+    ViewBag.Title = "HazirPcAl";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+<p style="color:red">*Parça isimlerini girmezseniz bilgisayar kaydı yapılmayacaktır.</p>
+<h3 style="color:red">@ViewBag.mesaj</h3>
+@using (Html.BeginForm("HazirPcAl", "SatinAl", FormMethod.Post))
+{
+
+    <div class="panel panel-danger">
+        <div class="panel-heading">
+            Ürün Al
+        </div>
+        <div class="panel-body">
+            <form role="form">
+
+                <div class="form-group">
+                    <label>Ram Adı       </label>
+                    @Html.TextBoxFor(m => m.Ram.ParcaAdi, new { @class = "form-control"})
+                    @Html.ValidationMessageFor(m => m.Ram.ParcaAdi)
+                </div>
+
+                <div class="form-group">
+                    <label>HardDisk Adı  </label>
+                    @Html.TextBoxFor(m => m.HardDisk.ParcaAdi, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(m => m.HardDisk.ParcaAdi)
+                </div>
+
+                <div class="form-group">
+                    <label>Ekran Kart Adı</label>
+                    @Html.TextBoxFor(m => m.EkranKarti.ParcaAdi, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(m => m.EkranKarti.ParcaAdi)
+                </div>
+
+                <div class="form-group">
+                    <label>Anakart Adı   </label>
+                    @Html.TextBoxFor(m => m.AnaKart.ParcaAdi, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(m => m.AnaKart.ParcaAdi)
+                </div>
+                <button type="submit" class="btn btn-danger">Tamamla</button>
+
+            </form>
+        </div>
+    </div>
+}
+
+@section script{
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+}
+
